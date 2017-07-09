@@ -1,0 +1,6 @@
+sim02: sim02.o 
+	g++ -pthread -Wall -o sim02.cpp  sim02
+	
+
+clean:
+	rm sim02.o

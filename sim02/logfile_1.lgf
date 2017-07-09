@@ -1,0 +1,71 @@
+ Time - Simulator Program starting
+ Time - OS: preparing all processes
+ Time - OS: Selecting next process
+ Time - OS: Starting Process 1
+ Time - process 1: Start hard drive input
+ Time - process 1: End hard drive input
+ Time - process 1: Start processing action
+ Time - process 1: End processing action
+ Time - process 1: Start monitor action
+ Time - process 1: End monitor action
+ Time - process 1: Start keyboard input
+ Time - process 1: End keyboard input
+ Time - process 1: Start processing action
+ Time - process 1: End processing action
+ Time - process 1: Start hard drive output
+ Time - process 1: End hard drive output
+ Time - process 1: Start hard drive action
+ Time - process 1: End hard drive action
+ Time - OS: removing process 1
+ Time - OS: selecting next process 
+ Time - OS: Starting Process 2
+ Time - process 2: Start printer output
+ Time - process 2: End printer output
+ Time - process 2: Start processing action
+ Time - process 2: End processing action
+ Time - process 2: Start hard drive action
+ Time - process 2: End hard drive action
+ Time - process 2: Start monitor output
+ Time - process 2: End monitor output
+ Time - process 2: Start hard drive input
+ Time - process 2: End hard drive input
+ Time - process 2: Start processing action
+ Time - process 2: End processing action
+ Time - process 2: Start hard drive action
+ Time - process 2: End hard drive action
+ Time - OS: removing process 2
+ Time - OS: selecting next process 
+ Time - OS: Starting Process 3
+ Time - process 3: Start hard drive input
+ Time - process 3: End hard drive input
+ Time - process 3: Start processing action
+ Time - process 3: End processing action
+ Time - process 3: Start processing action
+ Time - process 3: End processing action
+ Time - process 3: Start monitor output
+ Time - process 3: End monitor output
+ Time - process 3: Start keyboard input
+ Time - process 3: End keyboard input
+ Time - process 3: Start hard drive output
+ Time - process 3: End hard drive output
+ Time - process 3: Start hard drive action
+ Time - process 3: End hard drive action
+ Time - OS: removing process 3
+ Time - OS: selecting next process 
+ Time - OS: Starting Process 4
+ Time - process 4: Start processing action
+ Time - process 4: End processing action
+ Time - process 4: Start printer output
+ Time - process 4: End printer output
+ Time - process 4: Start processing action
+ Time - process 4: End processing action
+ Time - process 4: Start processing action
+ Time - process 4: End processing action
+ Time - process 4: Start keyboard input
+ Time - process 4: End keyboard input
+ Time - process 4: Start monitor output
+ Time - process 4: End monitor output
+ Time - process 4: Start keyboard input
+ Time - process 4: End keyboard input
+ Time - OS: removing process 4
+ Time - Simulator program ending 
